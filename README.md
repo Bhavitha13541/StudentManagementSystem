@@ -23,10 +23,11 @@ Implement the following methods:
 
 ---
 
-## 🖼️ Class Diagrams
+## 🖼️ Class Diagrams and Output
 
 ![Student Class Diagram](student.png)
 ![ManageStudents Class Diagram](manage.png)
+![Output Image](output.png)
 
 ---
 
