@@ -25,29 +25,14 @@ Implement the following methods:
 
 ## 🖼️ Class Diagrams
 
-### `Student` and `ManageStudents` Structure
-
 ![Student Class Diagram](student.png)
 ![ManageStudents Class Diagram](manage.png)
 
 ---
 
-### 🧾 Prerequisites
+## 🧾 Prerequisites
 
 - Python 3.x installed on your system
-
-### 📂 Project Structure
-StudentManagementSystem/
-│
-├── main.py # Entry point of the program
-├── student.py # Contains the Student class
-├── manage.py # Contains the ManageStudents class
-├── student.png # Student class diagram
-├── manage.png # ManageStudents class diagram
-├── Question.md # Original problem description
-├── .gitignore # Git ignore file
-└── pycache/ # Auto-generated Python cache (ignored)
-
 
 ---
 
